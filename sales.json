@@ -1,0 +1,137 @@
+[{
+        "id": 17,
+        "trans_date": 1650947778,
+        "period_id": 3,
+        "product_id": 1,
+        "user_id": 1,
+        "units": 27,
+        "product": {
+            "id": 1,
+            "name": "Adventurefuls",
+            "unit": "box"
+        },
+        "period": {
+            "id": 3,
+            "name": "Jun 2022"
+        }
+    },
+    {
+        "id": 19,
+        "trans_date": 1650947785,
+        "period_id": 3,
+        "product_id": 5,
+        "user_id": 1,
+        "units": 29,
+        "product": {
+            "id": 5,
+            "name": "Thin Mints",
+            "unit": "box"
+        },
+        "period": {
+            "id": 3,
+            "name": "Jun 2022"
+        }
+    },
+    {
+        "id": 28,
+        "trans_date": 1650946786,
+        "period_id": 5,
+        "product_id": 4,
+        "user_id": 1,
+        "units": 12,
+        "product": {
+            "id": 4,
+            "name": "Do-si-dos | Peanut Butter Sandwich",
+            "unit": "box"
+        },
+        "period": {
+            "id": 5,
+            "name": "Aug 2022"
+        }
+    },
+    {
+        "id": 31,
+        "trans_date": 1650947766,
+        "period_id": 6,
+        "product_id": 5,
+        "user_id": 1,
+        "units": 12,
+        "product": {
+            "id": 5,
+            "name": "Thin Mints",
+            "unit": "box"
+        },
+        "period": {
+            "id": 6,
+            "name": "Sep 2022"
+        }
+    },
+    {
+        "id": 45,
+        "trans_date": 1650947784,
+        "period_id": 11,
+        "product_id": 4,
+        "user_id": 1,
+        "units": 16,
+        "product": {
+            "id": 4,
+            "name": "Do-si-dos | Peanut Butter Sandwich",
+            "unit": "box"
+        },
+        "period": {
+            "id": 11,
+            "name": "Feb 2023"
+        }
+    },
+    {
+        "id": 48,
+        "trans_date": 1650947772,
+        "period_id": 12,
+        "product_id": 4,
+        "user_id": 1,
+        "units": 261,
+        "product": {
+            "id": 4,
+            "name": "Do-si-dos | Peanut Butter Sandwich",
+            "unit": "box"
+        },
+        "period": {
+            "id": 12,
+            "name": "Mar 2023"
+        }
+    },
+    {
+        "id": 49,
+        "trans_date": 1650946777,
+        "period_id": 12,
+        "product_id": 4,
+        "user_id": 1,
+        "units": 12,
+        "product": {
+            "id": 4,
+            "name": "Do-si-dos | Peanut Butter Sandwich",
+            "unit": "box"
+        },
+        "period": {
+            "id": 12,
+            "name": "Mar 2023"
+        }
+    },
+    {
+        "id": 52,
+        "trans_date": 23423423,
+        "period_id": 1,
+        "product_id": 1,
+        "user_id": 1,
+        "units": null,
+        "product": {
+            "id": 1,
+            "name": "Adventurefuls",
+            "unit": "box"
+        },
+        "period": {
+            "id": 1,
+            "name": "Apr 2022"
+        }
+    }
+]
